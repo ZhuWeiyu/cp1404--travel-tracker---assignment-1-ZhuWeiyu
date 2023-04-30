@@ -6,6 +6,8 @@ Date started: 26/4/2023
 https://github.com/JCUS-CP1404/cp1404--travel-tracker---assignment-1-ZhuWeiyu.git
 """
 
+import csv
+import random
 FILENAME = 'places.csv'
 
 def loadFile():
@@ -119,5 +121,6 @@ def main():
     saveFile(places)
     print(f"{len(places)} places saved to {FILENAME}")
     print("Have a nice day :)")
+
 
 main()
