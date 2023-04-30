@@ -122,5 +122,4 @@ def main():
     print(f"{len(places)} places saved to {FILENAME}")
     print("Have a nice day :)")
 
-
 main()
