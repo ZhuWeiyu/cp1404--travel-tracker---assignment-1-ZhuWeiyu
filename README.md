@@ -11,7 +11,6 @@ Note: If you use the free WakaTime service on your own machine, you can track ex
 See https://trello.com/c/6H24THnj/21-wakatime-time-tracking-for-ides-join-our-leaderboard
 
 1. How long did the entire assignment 1 project take you?
-> answer...
-
+> I finished my homework in three days, with a total of five hours.
 2. What do you plan to do  differently in your development process for assignment 2?
-> answer...
+>In order to finish my homework better in ass2, I intend to review the exercises of the first ten weeks before I start, see where I have made mistakes and avoid them as much as possible in ass2.
